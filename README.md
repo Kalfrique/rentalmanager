@@ -1,0 +1,2 @@
+# rentalmanager
+Real Estate Management System (REMS) is an online real estate software application that manages the overall operational activities and processes, starting from the management of the property, to the management of real estate agencies, agents, clients and financial transactions. It provides comprehensive reports for managing the Real Estate agency performance and efficiency, and enables the management for a better decision-making.
